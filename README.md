@@ -1,7 +1,8 @@
 <!-- ![Poster]() -->
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/standa-zeman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/standa-zeman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://standa.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </p>
 
 <p align="center">
