@@ -17,7 +17,7 @@
 <details>
     <summary>Click for GitHub Stats</summary>
     <p align="center">
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnsIaver&show_icons=true&theme=tokyonight&rank_icon=github">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnsIaver&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage">
         <br>
         <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsIaver&hide=html,css,&theme=tokyonight">
     </p>
