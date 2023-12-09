@@ -24,6 +24,6 @@
 <details>
     <summary>Wakatime Stats</summary>
     <p align="center">
-        <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Enslaver&bg_color=30,00A29C,00ADD8&title_color=00758D&text_color=fff&icon_color=5DC9E2&border_radius=8&border_color=fff">
+        <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Enslaver&bg_color=30,00A29C,00ADD8&title_color=5DC9E2&text_color=fff&icon_color=5DC9E2&border_radius=8&border_color=fff">
     </p>
 </details>
