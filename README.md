@@ -16,6 +16,7 @@
 
 <details>
     <summary>GitHub Stats</summary>
+    <br>
     <p align="center">
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnsIaver&show_icons=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&bg_color=30,00A29C,00ADD8&title_color=fff&text_color=fff&icon_color=5DC9E2&border_radius=8&border_color=fff">
     </p>
@@ -23,6 +24,7 @@
 
 <details>
     <summary>Wakatime Stats</summary>
+    <br>
     <p align="center">
         <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Enslaver&bg_color=30,00A29C,00ADD8&title_color=5DC9E2&text_color=fff&icon_color=5DC9E2&border_radius=8&border_color=fff">
     </p>
