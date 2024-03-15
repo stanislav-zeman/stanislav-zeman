@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/EnsIaver?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
-    <a href="https://github.com/EnsIaver?tab=repositories&language=rust" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+    <a href="https://github.com/stanislav-zeman?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+    <a href="https://github.com/stanislav-zeman?tab=repositories&language=rust" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
 </p>
 
 <details>
