@@ -14,6 +14,24 @@
     <a href="https://github.com/stanislav-zeman?tab=repositories&language=rust" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
 </p>
 
+
+<details>
+    <summary>Tech Stack</summary>
+    <br>
+
+| Topic         	| Tech                                                            |
+|------------------	|-----------------------------------------------------------------|
+| Languages         | Go, Rust                                                        |
+| Domains           | Web Development, Streaming                                      |
+| APIs              | REST, GraphQL, gRPC                                             |
+| Databases        	| MySQL/MariaDB, PostgreSQL, SQLite, Redis, InfluxDB              |
+| Message Brokers 	| NATS, RabbitMQ                                                  |
+| DevOps            | GitHub Actions, Gitlab CI, Ansible, Docker, Kubernetes, Systemd |
+| Observability     | Prometheus, Grafana, Jaeger                                     | 
+| OS               	| MacOS, Linux                                                    |
+
+</details>
+
 <details>
     <summary>GitHub Stats</summary>
     <br>
