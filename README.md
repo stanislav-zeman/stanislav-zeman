@@ -19,16 +19,17 @@
     <summary>Tech Stack</summary>
     <br>
 
-| Topic         	| Tech                                                            |
-|------------------	|-----------------------------------------------------------------|
-| Languages         | Go, Rust                                                        |
+| Topic             | Tech                                                            |
+|-------------------|-----------------------------------------------------------------|
+| Languages         | Go, Rust, Dart, TypeScript, Lua                                 |
+| Frameworks        | Flutter, Svelte                                                 |
 | Domains           | Web Development, Streaming                                      |
 | APIs              | REST, GraphQL, gRPC                                             |
-| Databases        	| MySQL/MariaDB, PostgreSQL, SQLite, Redis, InfluxDB              |
-| Message Brokers 	| NATS, RabbitMQ                                                  |
+| Databases         | MySQL/MariaDB, PostgreSQL, SQLite, Redis, InfluxDB              |
+| Message Brokers   | NATS, RabbitMQ                                                  |
 | DevOps            | GitHub Actions, Gitlab CI, Ansible, Docker, Kubernetes, Systemd |
-| Observability     | Prometheus, Grafana, Jaeger                                     | 
-| OS               	| MacOS, Linux                                                    |
+| Observability     | Prometheus, Grafana, Jaeger                                     |
+| OS                | MacOS, Linux                                                    |
 
 </details>
 
