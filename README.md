@@ -12,24 +12,26 @@
 <p align="center">
     <a href="https://github.com/stanislav-zeman?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
     <a href="https://github.com/stanislav-zeman?tab=repositories&language=rust" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+    <a href="https://github.com/stanislav-zeman?tab=repositories&language=dart" target="_blank"><img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
+    <a href="https://github.com/stanislav-zeman?tab=repositories&language=svelte" target="_blank"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte"></a>
+    <a href="https://github.com/stanislav-zeman?tab=repositories&language=typescript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
 </p>
-
 
 <details>
     <summary>Tech Stack</summary>
     <br>
 
-| Topic             | Tech                                                            |
-|-------------------|-----------------------------------------------------------------|
-| Languages         | Go, Rust, Dart, TypeScript, Lua                                 |
-| Frameworks        | Flutter, Svelte                                                 |
-| Domains           | Web Development, Streaming                                      |
-| APIs              | REST, gRPC, GraphQL                                             |
-| Databases         | PostgreSQL, MySQL/MariaDB, SQLite, Redis, InfluxDB              |
-| Message Brokers   | NATS, RabbitMQ                                                  |
-| DevOps            | GitHub Actions, Gitlab CI, Ansible, Docker, Kubernetes, Systemd |
-| Observability     | Prometheus, Grafana, Jaeger                                     |
-| OS                | MacOS, Linux                                                    |
+| Topic           | Tech                                                            |
+| --------------- | --------------------------------------------------------------- |
+| Languages       | Go, Rust, Dart, TypeScript, Lua                                 |
+| Frameworks      | Flutter, Svelte                                                 |
+| Domains         | Web Development, Streaming                                      |
+| APIs            | REST, gRPC, GraphQL                                             |
+| Databases       | PostgreSQL, MySQL/MariaDB, SQLite, Redis, InfluxDB              |
+| Message Brokers | NATS, RabbitMQ                                                  |
+| DevOps          | GitHub Actions, Gitlab CI, Ansible, Docker, Kubernetes, Systemd |
+| Observability   | Prometheus, Grafana, Jaeger                                     |
+| OS              | MacOS, Linux                                                    |
 
 </details>
 
