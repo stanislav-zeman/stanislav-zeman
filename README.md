@@ -7,7 +7,7 @@
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://standa.dev" target="_blank">
-        <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+        <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logoColor=white">
     </a>
 </p>
 
