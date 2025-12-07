@@ -1,5 +1,3 @@
-<!-- ![Poster]() -->
-
 <p align="center">
     <img alt="Gopher" src="./assets/dancing-gopher.gif"></a>
 </p>
@@ -12,9 +10,9 @@
 <p align="center">
     <a href="https://github.com/stanislav-zeman?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
     <a href="https://github.com/stanislav-zeman?tab=repositories&language=rust" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
-    <a href="https://github.com/stanislav-zeman?tab=repositories&language=dart" target="_blank"><img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
-    <a href="https://github.com/stanislav-zeman?tab=repositories&language=svelte" target="_blank"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte"></a>
+    <a href="https://github.com/stanislav-zeman?tab=repositories&language=dart" target="_blank"><img alt="Dart" src="https://img.shields.io/badge/Dart-01579B.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
     <a href="https://github.com/stanislav-zeman?tab=repositories&language=typescript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/stanislav-zeman?tab=repositories&language=svelte" target="_blank"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"></a>
 </p>
 
 <details>
